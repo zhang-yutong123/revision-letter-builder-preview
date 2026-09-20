@@ -6,7 +6,7 @@ Version 0.2 creates native `.docx` and HTML files from the comments, responses a
 
 **One-time introductory price: HK$49 for one named user, or HK$199 for up to five named users in one organisation.** Licences include formatting paid-client letters on any number of manuscripts. You may share generated letters with clients and collaborators; the generator and blank templates may not be redistributed.
 
-[Request a fictional Word sample or purchase details](mailto:55002352@qq.com?subject=Revision%20Letter%20Builder%20-%20Word%20sample)
+[Download the free fictional Word sample](example-letter.docx?raw=true) — no email or purchase required.
 
 ## See the format
 
@@ -14,7 +14,7 @@ Version 0.2 creates native `.docx` and HTML files from the comments, responses a
 - [Example response content](sample-response.md)
 - [HTML illustration](example-letter.html) — download and open in a browser.
 
-These public illustrations show the original HTML workflow and fictional content. Version 0.2 adds Word output; a fictional DOCX example is available by email before purchase. No client manuscript is required.
+These public illustrations show the original HTML workflow and fictional content. Version 0.2 adds Word output; download the fictional DOCX example above to inspect the editable format before purchase. No client manuscript is required.
 
 ## How it works
 
@@ -40,3 +40,4 @@ Email **55002352@qq.com** with your Windows version and the number of users. The
 Contact: **55002352@qq.com**
 
 Independent commercial product; no university or journal endorsement is claimed. This preview repository does not contain the paid generator.
+
